@@ -1,0 +1,5 @@
+# generated classes
+target
+*.class
+*.jar
+.idea
